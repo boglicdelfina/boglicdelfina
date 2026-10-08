@@ -18,7 +18,7 @@ Estudiante de **Licenciatura en Ciencia de Datos** en la Facultad de Ingeniería
 |---|---|
 | **lenguajes** | R · Python · JavaScript · HTML · CSS |
 | **entornos** | RStudio · VS Code · Jupyter |
-| **R** | `ggplot2` · `dplyr` · `readr` |
+| **R** | `dplyr` · `ggplot2` · `tidyr` · `readr` · `lubridate` · `janitor` · `stringr` |
 | **informes y versionado** | Quarto · Markdown · Git y GitHub |
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -39,6 +39,8 @@ Estudiante de **Licenciatura en Ciencia de Datos** en la Facultad de Ingeniería
 | [TPFinal_TLD1](https://github.com/boglicdelfina/TPFinal_TLD1) | Portal de noticias con panel de administración, cotización del dólar en tiempo real y modo claro/oscuro. TP grupal de Taller de Internet | JavaScript · HTML · CSS |
 | [Transversales_PrograII](https://github.com/boglicdelfina/Transversales_PrograII) | Ejercicios transversales de la cursada: lectura, limpieza y graficado de datos de estaciones meteorológicas | R · Quarto |
 | [programacionII2026](https://github.com/boglicdelfina/programacionII2026) | Primer repo de Programación II, prácticas de Git y R | R |
+| Análisis de vuelos *(repo privado)* | Limpieza y análisis exploratorio de un set de datos de vuelos | R · Quarto |
+| Datos del campo *(repo privado)* | Proyecto personal: análisis de datos productivos del campo familiar | R |
 
 *Se va a ir llenando a medida que avance en la carrera.*
 
